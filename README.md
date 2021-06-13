@@ -6,7 +6,7 @@ Phonebook console application written in C#
 - C#
 
 ## Build
-Clone repo, open solution in Visual Studio -> Build
+Clone repo -> open solution in Visual Studio -> Build
 
 You can run the application either directly from Visual Studio or the PhoneBook.exe file in Phonebook/bin/Debug/net5.0 
 
